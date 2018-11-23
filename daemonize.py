@@ -1,5 +1,5 @@
 """ Скрипт для демонизации
-    требуется пакет python-daemon
+    требуются пакеты docutils, python-daemon
 """
 
 import sys
